@@ -5,8 +5,8 @@
 ## 环境要求
 
 - Windows 10 2004+ 或 Windows 11
-- Python 3.8+
 - 微信 PC 版
+- Visual C++ 运行库（通常系统已自带）
 
 ## 安装
 
